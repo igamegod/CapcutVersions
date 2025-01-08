@@ -12,3 +12,6 @@
 - [2.5.3](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_5_3_801_capcutpc_0_creatortool.exe)
 - [2.5.2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_5_2_754_capcutpc_0_creatortool.exe)
 - [2.5.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_5_0_723_capcutpc_0_creatortool.exe)
+# How to downgrade:
+- Goto "C:\Users\<Your PC Name>\AppData\Local\CapCut\Apps" And delete all of the folders in there.
+- Download the version's installer from the links listed above and run it.
