@@ -1,4 +1,5 @@
 # These are OFFICIAL Download links hosted by CapCut/Bytedance.
+- [5.6.0 (Beta3)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_6_0_2051_beta3_capcutpc_beta_creatortool.exe)
 - [5.6.0 (Beta2)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_6_0_2048_beta2_capcutpc_beta_creatortool.exe)
 - [5.6.0 (Beta1)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_6_0_2043_beta1_capcutpc_beta_creatortool.exe)
 - [5.5.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_5_0_2028_capcutpc_0_creatortool.exe)
