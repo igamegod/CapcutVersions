@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5df0a0f6-856a-44b2-a6c9-212698e47ca6)# These are OFFICIAL Download links hosted by CapCut/Bytedance.
+# These are OFFICIAL Download links hosted by CapCut/Bytedance.
 - [5.7.0 (Beta4)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2084_beta4_capcutpc_beta_creatortool.exe)
 - [5.7.0 (Beta3)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2081_beta3_capcutpc_beta_creatortool.exe)
 - [5.7.0 (Latest) (Beta2)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2075_beta2_capcutpc_beta_creatortool.exe)
