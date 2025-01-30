@@ -139,27 +139,20 @@ https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_9_0_1
 - [3.8.0 (Test3)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1412_capcutpc_0_creatortool.exe)
 - [3.8.0 (Test2)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1401_capcutpc_0_creatortool.exe)
 - [3.8.0 (Test1)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1400_capcutpc_0_creatortool.exe)
-https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1428_beta7_capcutpc_beta_creatortool.exe
-
-https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1420_beta6_capcutpc_beta_creatortool.exe
-
-https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1399_beta5_capcutpc_beta_creatortool.exe
-https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1402_beta5_capcutpc_beta_creatortool.exe
-https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1407_beta5_capcutpc_beta_creatortool.exe
-https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1411_beta5_capcutpc_beta_creatortool.exe
-
-https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1391_beta4_capcutpc_beta_creatortool.exe
-https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1395_beta4_capcutpc_beta_creatortool.exe
-https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1396_beta4_capcutpc_beta_creatortool.exe
-
-https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1380_beta3_capcutpc_beta_creatortool.exe
-https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1382_beta3_capcutpc_beta_creatortool.exe
-https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1385_beta3_capcutpc_beta_creatortool.exe
-
-https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1378_beta2_capcutpc_beta_creatortool.exe
-
-https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1375_beta1_capcutpc_beta_creatortool.exe
-
+- [3.8.0 (Beta7)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1428_beta7_capcutpc_beta_creatortool.exe)
+- [3.8.0 (Beta6)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1420_beta6_capcutpc_beta_creatortool.exe)
+- [3.8.0 (Latest) (Beta5)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1411_beta5_capcutpc_beta_creatortool.exe)
+- [3.8.0 (Test3) (Beta5)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1407_beta5_capcutpc_beta_creatortool.exe)
+- [3.8.0 (Test2) (Beta5)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1402_beta5_capcutpc_beta_creatortool.exe)
+- [3.8.0 (Test1) (Beta5)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1399_beta5_capcutpc_beta_creatortool.exe)
+- [3.8.0 (Latest) (Beta4)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1396_beta4_capcutpc_beta_creatortool.exe)
+- [3.8.0 (Test2) (Beta4)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1395_beta4_capcutpc_beta_creatortool.exe)
+- [3.8.0 (Test1) (Beta4)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1391_beta4_capcutpc_beta_creatortool.exe)
+- [3.8.0 (Latest) (Beta3)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1385_beta3_capcutpc_beta_creatortool.exe)
+- [3.8.0 (Test2) (Beta3)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1382_beta3_capcutpc_beta_creatortool.exe)
+- [3.8.0 (Test1) (Beta3)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1380_beta3_capcutpc_beta_creatortool.exe)
+- [3.8.0 (Beta2)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1378_beta2_capcutpc_beta_creatortool.exe)
+- [3.8.0 (Beta1)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_8_0_1375_beta1_capcutpc_beta_creatortool.exe)
 - [3.7.0 (Latest)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_7_0_1376_capcutpc_0_creatortool.exe)
 - [3.7.0 (Test1)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_7_0_1358_capcutpc_0_creatortool.exe)
 - [3.7.0 (Latest) (Beta6)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_3_7_0_1354_beta6_capcutpc_beta_creatortool.exe)
