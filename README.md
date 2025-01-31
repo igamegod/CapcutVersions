@@ -1,4 +1,8 @@
 # These are OFFICIAL Download links hosted by CapCut/Bytedance.
+
+# How to downgrade:
+- Goto "C:\Users\Your PC Name\AppData\Local\CapCut\Apps" And delete all of the folders in there.
+- Download the version's installer from the links listed above and run it.
 <details>
 <summary>5.x.x</summary>
 - [5.7.0 (Beta4)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2084_beta4_capcutpc_beta_creatortool.exe)
@@ -468,6 +472,4 @@
 - [1.0.0 (Test1)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_0_0_22_capcutpc_0.exe)
 - [1.0.0 (Latest) (Beta1)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_0_0_20_beta1_capcutpc_beta.exe)
 - [1.0.0 (Test1) (Beta1)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_0_0_18_beta1_capcutpc_beta.exe)
-# How to downgrade:
-- Goto "C:\Users\Your PC Name\AppData\Local\CapCut\Apps" And delete all of the folders in there.
-- Download the version's installer from the links listed above and run it.
+</details>
