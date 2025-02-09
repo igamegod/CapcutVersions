@@ -4,6 +4,11 @@
 - Goto "C:\Users\Your PC Name\AppData\Local\CapCut\Apps" And delete all of the folders in there.
 - Download the version's installer from the links listed above and run it.
 
+- [5.7.0 (Latest)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2104_capcutpc_0_creatortool.exe)
+- [5.7.0 (Test2)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2103_capcutpc_0_creatortool.exe)
+- [5.7.0 (Test1)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2098_capcutpc_0_creatortool.exe)
+- [5.7.0 (Beta6)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2101_beta6_capcutpc_beta_creatortool.exe)
+- [5.7.0 (Beta5)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2097_beta5_capcutpc_beta_creatortool.exe)
 - [5.7.0 (Beta4)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2084_beta4_capcutpc_beta_creatortool.exe)
 - [5.7.0 (Beta3)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2081_beta3_capcutpc_beta_creatortool.exe)
 - [5.7.0 (Latest) (Beta2)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2075_beta2_capcutpc_beta_creatortool.exe)
